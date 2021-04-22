@@ -1,5 +1,5 @@
 <p align="center">
- <img  width="550" height="400" src="https://github.com/JulianSurya/juliansurya/blob/main/nino.gif">
+ <img  width="500" height="500" src="https://github.com/JulianSurya/juliansurya/blob/main/nino.gif">
 </p>
 <h2 align="center">Hello everyone, Im Julian Surya.</h2>
 <p align="center">I'm 17 Years old, a random guy, a guy who like to watch anime, and im trying to mastering programming languages. </p>
