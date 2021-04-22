@@ -5,6 +5,7 @@
 <p align="center">I'm 17 Years old, a random guy, a guy who like to watch anime, and im trying to mastering programming languages. </p>
 
 <a href="https://www.instagram.com/JulianSurya23/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+<a href="https://t.me/JulVioleGrace"><img src="https://badges.aleen42.com/src/telegram.svg" height=25>
 </a>
 </p>
 
@@ -37,5 +38,5 @@
 </p>
 
 <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=JulianSurya&show_icons=true&theme=radical">
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=BianSepang&count_private=true&include_all_commits=true&show_icons=true&theme=dracula">
 </p>
