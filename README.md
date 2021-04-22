@@ -38,5 +38,5 @@
 </p>
 
 <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=BianSepang&count_private=true&include_all_commits=true&show_icons=true&theme=dracula">
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=JulianSurya&count_private=true&include_all_commits=true&show_icons=true&theme=dracula">
 </p>
